@@ -55,5 +55,6 @@ Follow this sequence to use the project effectively:
 
 -   **Constants and Helpers**: `constants.py` and `helpers.py` contain reusable variables and functions that are utilized in other scripts.
 -   **Test Video**: `Prueba.mp4` is a sample video for testing the model.
+-   **First Usage**: It is advisable to empty the folders and generate the project from scratch.
 
 By following this guide, you should be able to capture, process, train, and run your sign language translation model efficiently. Happy coding! 🖥️✨
