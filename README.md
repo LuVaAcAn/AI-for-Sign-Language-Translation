@@ -1,6 +1,7 @@
 
 # AI For Sign Language Translation Project 👐
 
+*Based on @ronvidev: modelo_lstm_lsp project (version showcased on YT). Added learning with video*
 This project aims to translate sign language into text using AI models. The project leverages TensorFlow and Python 3.12.2 for training and running the models. Here's an overview of the project structure and the usage sequence.
 
 ## Project Structure 📂
